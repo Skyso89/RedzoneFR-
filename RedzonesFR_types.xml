@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<types>
+<!-- RedzoneFR -->
 	<type name="FC_Bmw_E32">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
@@ -144,4 +143,4 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
     </type>	
-</Types>
+<!-- Fin RedzoneFR -->
